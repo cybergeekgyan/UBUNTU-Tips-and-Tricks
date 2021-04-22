@@ -85,3 +85,44 @@ Bleachbit:
   
    - It is a system cleaner and optimiser built for linux
    - Download this software for monitoring your CPU performance from its [website](https://github.com/oguzhaninan/Stacer)
+
+12. CALIBRE
+  
+   - It is an eBook reader and it supports all the eBook formats 
+
+11. TIMESHIFT
+
+   - It is the ultimate backup and recovery tool for Linux.
+   - It is so powerful that even if you delete the entire operating system away you can still restore all the things and it'll work 
+     flawlesly for someone who messes a lot with the system a lot. 
+        
+        
+         sudo apt install timeshift
+
+10. GNOME TWEAK TOOL
+
+09. KDENLIVE
+
+08. SYNAPTIC
+
+07. VLC 
+
+06. NITROSHARE
+ 
+ - It is a lighweight ridiculously simple to use software that is capable of transferring files and directories over Ethernet Cable and wireless LAN 
+ - It is a multiplatform app that works on Linux, Windows, Mac and Android.
+ - It allows cross-platform files sharing.
+
+05. CHROMIUM BROWSERR
+
+04. GIMP
+
+  - It stands for GNU Image Manipulation Program
+  - It is a free software that is basically photoshop for linux
+
+03. MEGA
+
+02. SIMPLENOTE
+
+01. STEAM
+
