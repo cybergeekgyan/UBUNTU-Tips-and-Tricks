@@ -60,3 +60,28 @@ Synaptic Package Manager:
 Bleachbit:
  
     sudo apt install bleachbit
+    
+    
+### 15 Best Linux Applications that You MUST HAVE!
+
+ - 15 Linux apps of 2019. These apps greatly enhance the functionality of your PC by bringing innovative features to You. Free cloud storage, Android messaging and Whatsapp, Photoshop for Linux,  TV, Wireless file sharing and many more features.
+
+
+15. RAMBOX
+   
+      sudo snap install rambox
+      
+  Or download it from the [website](https://rambox.pro/#home) or also from the ubuntu software store or snap store.
+  
+  
+14. KODI
+    
+   - download this software from the ubuntu software store or from its [website](https://kodi.tv/download)
+   - It is the ultimate entertainment powerhouse 
+   - Take a smartTV and multiply its awesomeness by 100 you will get KODI.
+   - It is not a media provider like Netflix rather it's a tool that organises and allows you to play your own media or media from supported 3rd party services.
+
+13. STACER
+  
+   - It is a system cleaner and optimiser built for linux
+   - Download this software for monitoring your CPU performance from its [website](https://github.com/oguzhaninan/Stacer)
