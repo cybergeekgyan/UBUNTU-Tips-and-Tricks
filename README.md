@@ -69,7 +69,7 @@ Bleachbit:
 
 15. RAMBOX
    
-      sudo snap install rambox
+        sudo snap install rambox
       
   Or download it from the [website](https://rambox.pro/#home) or also from the ubuntu software store or snap store.
   
